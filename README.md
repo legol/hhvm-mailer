@@ -1,2 +1,4 @@
 # hhvmmailer
-HHVM SMTP client
+Allow you to use HHVM to send email.
+
+Current only support SMTP. Tested with gmail.
