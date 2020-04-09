@@ -17,6 +17,6 @@ Usage:
         ->setMessageBodyPlain('plain text message body')
         ->setMessageBodyHtml(
             "<div>This is the <b>text/html</b> version.</div>".
-            "<div>-Jie Chen</div>",
+            "<div>-Michael Jac xxx</div>",
         );
     $succeeded = await $mailer->genSend();
