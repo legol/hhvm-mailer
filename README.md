@@ -10,9 +10,9 @@ Usage:
         ->setPort(587)
         ->setUserName('<YOUR_GMAIL_ADDRESS>')
         ->setPassword('<CHANGE_TO_YOUR_GMAIL_APP_PASSWORD>')
-        ->setFrom('legol.chen@gmail.com', 'Jie Chen')
-        ->addTo('legol.chen@gmail.com')
-        ->addCc('jie.chen.80.1@gmail.com')
+        ->setFrom('abcde@gmail.com', 'Michael Jac XXX')
+        ->addTo('efg@gmail.com')
+        ->addCc('hijk@gmail.com')
         ->setSubject('Hello Mail From hhvm-mailer')
         ->setMessageBodyPlain('plain text message body')
         ->setMessageBodyHtml(
